@@ -1,5 +1,9 @@
 # 📡 TWIN SIGNAL
 
+<p align="center">
+  <img src="logo.jpg" alt="Twin Signal Logo" width="280">
+</p>
+
 > **A real-time cooperative deduction game powered by quantum non-locality.**  
 > Built for the **Qollab × IonQ Global Quantum Hackathon (Oct 9–11, 2026)** · **Track 02: Quantum Playground**
 
