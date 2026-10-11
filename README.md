@@ -7,12 +7,16 @@
 > **A real-time cooperative deduction game powered by quantum non-locality.**  
 > Built for the **Qollab × IonQ Global Quantum Hackathon (Oct 9–11, 2026)** · **Track 02: Quantum Playground**
 
+[![Play Live](https://img.shields.io/badge/PLAY%20LIVE-twinsignal.world-556B2F?style=for-the-badge)](https://twinsignal.world)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Tests: 35 passed](https://img.shields.io/badge/tests-35%20passed-brightgreen.svg)](server/tests)
 [![Physics: CHSH Bell Test](https://img.shields.io/badge/physics-CHSH%20Bell%20Violation-purple.svg)](server/quantum.py)
 
 ---
+
+> 🎮 **Live Demo:** [https://twinsignal.world](https://twinsignal.world)  
+> *Jump in with 1-click Solo Training or invite a friend via 4-letter room code!*
 
 ## 🛰️ Overview
 
